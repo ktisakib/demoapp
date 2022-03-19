@@ -1,0 +1,8 @@
+.header{
+  @apply  text-center text-7xl bg-gradient-to-r h-40 w-80 from-pink-700 bg-clip-text via-blue-500 to-yellow-300 p-2 font-semibold text-transparent  [text-shadow:-5px_5px_5px_#00e6e6,-10px_10px_0px_#01cccc,-15px_15px_0px_#00bdbd,-20px_20px_0px_#00bdbd;] [color:#FFFFFF;]
+[background:#005DFF;];
+}
+/* color: #FFFFFF;
+background: #005DFF;
+ */
+

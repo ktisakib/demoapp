@@ -1,0 +1,6 @@
+.nav{
+    @apply w-full bg-red-400
+}
+.nav ul{
+    @apply flex flex-col  sm:flex-row justify-between max-w-screen-2xl m-auto space-x-5 p-2
+}
